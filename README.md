@@ -1,18 +1,17 @@
 # 👋 Halo, Saya Virgi Alpiansyah  
 
-Saya seorang mahasiswa di bidang **Informatika** yang memiliki ketertarikan pada dunia **teknologi, pemrograman, dan pengembangan web**.  
-Fokus utama saya adalah memahami cara kerja teknologi serta menerapkannya untuk membuat solusi yang bermanfaat.  
-Saya senang bereksperimen dengan ide-ide baru dan terus belajar meningkatkan kemampuan di bidang digital.
+Saya seorang mahasiswa **Informatika** yang tertarik dengan dunia **teknologi, pemrograman, dan pengembangan web**.  
+Saya percaya setiap baris kode bisa membawa perubahan kecil menuju masa depan yang lebih baik.  
 
 ---
 
-## 🎯 Fokus & Keahlian Utama  
+## 🎯 Fokus & Keahlian  
 
 | Bidang | Keterangan |
 |--------|-------------|
-| 💻 Pengembangan Web | Dasar **HTML**, **CSS**, **JavaScript**, serta pembuatan tampilan web responsif. |
-| ⚙️ Pemrograman & Otomatisasi | Mampu membuat script sederhana dengan **Python** untuk membantu pekerjaan otomatis. |
-| 🎨 Desain Digital | Membuat desain untuk media digital seperti banner, thumbnail, dan materi edukatif. |
+| 💻 Web Development | Menguasai dasar **HTML**, **CSS**, dan **JavaScript** untuk membangun tampilan web sederhana. |
+| ⚙️ Pemrograman | Membuat script sederhana menggunakan **Python** untuk otomatisasi dan pembelajaran logika. |
+| 🎨 Desain Digital | Mendesain banner, thumbnail, dan media edukatif visual. |
 
 ---
 
@@ -30,25 +29,32 @@ Saya senang bereksperimen dengan ide-ide baru dan terus belajar meningkatkan kem
 
 | Nama Proyek | Deskripsi Singkat | Teknologi |
 |--------------|------------------|------------|
-| **QuickSirah** | Kanal konten edukasi Islam dalam format video pendek. Fokus pada sirah, sejarah, dan nilai-nilai Islam. | Desain, Editing, YouTube Branding |
-| **Diphami** | Platform konten islami yang membahas tafsir dan pengetahuan agama secara ringan. | Konten, Penulisan, Research |
-| **Portfolio Website** _(coming soon)_ | Website pribadi untuk menampilkan proyek, profil, dan sertifikat digital. | HTML, CSS, JavaScript |
+| **QuickSirah** | Konten video pendek bertema keislaman: ceramah, kisah Nabi, dan sejarah Islam. | Desain, Editing, Branding |
+| **Diphami** | Platform edukatif untuk memahami Islam dengan bahasa yang ringan dan modern. | Konten, Research, Writing |
+| **Belajar GitHub** | Catatan pribadi untuk memahami Git dan GitHub dari dasar. | Markdown, Git |
+
+> 💡 *Masih terus belajar dan mengembangkan proyek baru di bidang web dan digital content.*
 
 ---
 
-## 🏅 Sertifikat & Pencapaian  
+## 🏅 Sertifikat  
 
 - **Belajar Dasar HTML & CSS** – Dicoding Indonesia  
 - **Pengantar Pemrograman Python** – Sololearn  
 - **Digital Marketing Dasar** – Google Digital Garage  
-- _(sertifikat lain bisa ditambahkan nanti)_
 
 ---
 
 ## 📊 Statistik GitHub  
 
 ![Virgi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virgialpiansyah20-spec&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgialpiansyah20-spec&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgialpiansyah20-spec&layout=compact&theme=tokyonight)  
+
+---
+
+## 🐍 Aktivitas GitHub  
+
+![GitHub Snake Animation](https://github.com/virgialpiansyah20-spec/virgialpiansyah20-spec/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -62,5 +68,3 @@ Saya senang bereksperimen dengan ide-ide baru dan terus belajar meningkatkan kem
 ---
 
 > _“Terus belajar, karena setiap baris kode adalah langkah menuju masa depan.”_ ✨
-
-
